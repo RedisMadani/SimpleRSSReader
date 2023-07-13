@@ -1,5 +1,6 @@
 # SimpleRSSReader
 
+![SimpleRSSReader](https://github.com/RedisMadani/SimpleRSSReader/assets/136177376/eb51d4be-ab14-499b-9ab9-e6bf224a8045)
 
 ## Overview
 SimpleRSSReader is a simple application that allows you to stay up-to-date with the latest news from Apple. It demonstrates the usage of various features such as XML Parser Delegate, dynamic height control for tableView cells, and expandable/collapsible tableView cells.
